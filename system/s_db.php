@@ -1,9 +1,9 @@
 <?php
 
     $hostname = "localhost";
-    $username = "sparrko";
-    $password = "whatIsIt1234-";
-    $dbname =   "localhost";
+    $username = "";
+    $password = "";
+    $dbname =   "";
 
     function s_getDB()
     {        
